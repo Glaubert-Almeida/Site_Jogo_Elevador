@@ -1,0 +1,22 @@
+body {
+    background-image: url(../img//andar.jpg);
+    background-size: cover;
+    padding-top: 2rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    color: azure;
+    text-shadow: black 8px 2px 3px;
+}
+
+input {
+    color: #000;
+}
+
+small {
+    color: black;
+}
+label {
+    color: rgb(0, 0, 0);
+}
